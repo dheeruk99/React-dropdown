@@ -1,0 +1,14 @@
+.itemList {
+  height: 30px;
+  width: 230px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  align-items: center;
+  border-radius: 4px;
+}
+
+.itemList:hover {
+  background-color: lightblue;
+}
